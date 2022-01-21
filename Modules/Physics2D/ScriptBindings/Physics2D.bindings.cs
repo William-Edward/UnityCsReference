@@ -4922,7 +4922,7 @@ namespace UnityEngine
         // The scale of the impulse force applied while attempting to reach the surface speed.
         extern public float forceScale { get; set; }
 
-        // Should the impulse force but applied to the contact point?
+        // Should the impulse force be applied to the contact point?
         extern public bool useContactForce { get; set; }
 
         // Should friction be used for any contact with the surface?
